@@ -1,0 +1,31 @@
+{
+  "tempo": 118,
+  "track": [
+    {"note": "G4", "duration": 1.0, "effect": "none"},
+    {"note": "G4", "duration": 1.0, "effect": "none"},
+    {"note": "G4", "duration": 1.0, "effect": "none"},
+    {"note": "D4", "duration": 1.0, "effect": "none"},
+    {"note": "E4", "duration": 1.0, "effect": "none"},
+    {"note": "E4", "duration": 1.0, "effect": "none"},
+    {"note": "D4", "duration": 2.0, "effect": "reverb"},
+    {"note": "B4", "duration": 1.0, "effect": "none"},
+    {"note": "B4", "duration": 1.0, "effect": "none"},
+    {"note": "A4", "duration": 1.0, "effect": "none"},
+    {"note": "A4", "duration": 1.0, "effect": "none"},
+    {"note": "G4", "duration": 2.0, "effect": "reverb"},
+    {"note": "D4", "duration": 0.5, "effect": "none"},
+    {"note": "D4", "duration": 0.5, "effect": "none"},
+    {"note": "G4", "duration": 1.0, "effect": "none"},
+    {"note": "G4", "duration": 1.0, "effect": "none"},
+    {"note": "G4", "duration": 1.0, "effect": "none"},
+    {"note": "D4", "duration": 1.0, "effect": "none"},
+    {"note": "E4", "duration": 1.0, "effect": "none"},
+    {"note": "E4", "duration": 1.0, "effect": "none"},
+    {"note": "D4", "duration": 2.0, "effect": "reverb"},
+    {"note": "B4", "duration": 1.0, "effect": "none"},
+    {"note": "B4", "duration": 1.0, "effect": "none"},
+    {"note": "A4", "duration": 1.0, "effect": "none"},
+    {"note": "A4", "duration": 1.0, "effect": "none"},
+    {"note": "G4", "duration": 2.0, "effect": "reverb"}
+  ]
+}

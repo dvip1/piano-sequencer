@@ -1,0 +1,16 @@
+[project]
+name = "piano-sequencer"
+version = "0.1.0"
+description = "A lightweight JSON-to-WAV piano sequencer."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.0.0",
+    "scipy>=1.13.0",
+]
+
+[project.scripts]
+piano-sequencer = "piano_sequencer.main:main"
+
+[tool.uv]
+package = true
